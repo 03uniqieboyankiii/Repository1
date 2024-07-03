@@ -1,6 +1,5 @@
-Hello, Aniket03gawali and I'm resolving #1 first issue now
-as well as I made some changes and right know pulling request to 02uniquieboyankiii for merging this changes into Repository1
-Lets check the working of git fetch (time 15:14)
-Lets check the working of git fetch (time 15:46)
-Lets check the working of git fetch (time 15:58)
-Lets check the working of git pull (time 16:07)
+#Code Review
+If(owner is satisfied with changes)
+          Then simply "approve" the changes
+ Else
+       Owner will "request changes"
